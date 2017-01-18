@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Team Libra</Name>
+    <Version>1.0.0</Version>
+    <Title>Team Libra</Title>
+    <Publisher>Team Libra</Publisher>
+    <StartMenuDir>Team Libra</StartMenuDir>
+    <TargetDir>@DesktopDir@/Team Libra</TargetDir>
+</Installer>
